@@ -8,11 +8,11 @@ Una vez clonado  el repositorio , se realizo el siguiente proceso:
 
 - click derecho sobre SIULATE BEIHAVORAL MODEL y clik izquierdo en process properties, se depliega una ventana que nos permite cambiar el tiempo de simulacion llamada Simulation Run Time
 
-![resultado1](./w31.png)
+![resultado1](./figs/w31.png)
 
 3. Una vez terminada la simulaciòn revisar dentro del directorio `HW` que contenga el fichero ***test_vga.txt***
 
-![resultado1](./w32.png)
+![resultado1](./figs/w32.png)
 
 4. ingresar a la web [vga-simulator](https://ericeastwood.com/lab/vga-simulator/)  y cargar el archivo ***test_vga.txt***, dejar los datos de configuraciòn tal cual como aparecen. 
 
